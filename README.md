@@ -3,7 +3,7 @@
 - 🔭 **Aspiring Software Engineer | Java | DSA  ** 
 - 🌱 **Learning Full Stack Java (Spring Boot, REST APIs, React)  **
 - 👯 **Building real-world projects ** 
-- 
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Shibam9300) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shibam-ghosh-900488360) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gshibam632@gmail.com ) 
 
